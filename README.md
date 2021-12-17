@@ -1,3 +1,3 @@
 # music player 
 
-##project using traversy medias tutorial
+## project using traversy medias tutorial
